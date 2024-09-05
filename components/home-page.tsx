@@ -93,7 +93,7 @@ export function HomePage() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-5xl md:text-7xl font-bold mb-4"
             >
-              Hello, I'm Hiro
+              Hello, I am Hiro
             </motion.h1>
             <motion.p 
               initial={{ opacity: 0, y: 20 }}
